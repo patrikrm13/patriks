@@ -210,6 +210,11 @@ function create_config( )
     enabled_plugins = {
     "onservice",
     "inrealm",
+    "add_plug",
+    "lol",
+    "poker",
+    "webshot",
+    "sms",
     "inpm",
     "ingroup",
     "banhammer",
@@ -226,7 +231,6 @@ function create_config( )
     "bot_manager",
     "antilink",
     "linkpv",
-    "boobs",
     "time",
     "location",
     "plugins",
@@ -243,14 +247,14 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {139534999},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/m13790115/eset.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @patixbot
+sodu : @rm13790115bot
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -319,7 +323,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+patix Commands list :
  
 1-banhammer list ^
  
@@ -487,10 +491,10 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @BehroozYaghi
+Developer: @RM13790115bot
 توسعه دهنده
 
-channel: @Nod32team
+channel: @patixbot
 کانال ما
 
 G00D LUCK ^_^
