@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return 'patixx'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @RM13790115
   
-  Channel : @Nod32team
+  Channel : @patixbot
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/m13790115/eset.git
   
-  NOD32 VERSION 5
+  
   
   All rights reserved.
   __________________]]
